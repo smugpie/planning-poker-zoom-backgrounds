@@ -8,8 +8,8 @@ Alternatively make your own by opening the .sketch file in the `/sketch` folder.
 
 ## License
 
-MIT License - see [LICENSE.md]().
+MIT License - see [LICENSE.md](./LICENSE.md).
 
 ## Contact
 
-Leave a message using the [https://andrewgraham.dev/contact/](contact form) on my website; alternatively I'm @smugpie on Twitter.
+Leave a message using the [contact form](https://andrewgraham.dev/contact/) on my website; alternatively I'm @smugpie on Twitter.
